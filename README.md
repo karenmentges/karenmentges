@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Karen Ruver Mentges, an enthusiasts of technology.
+### Hello, I'm Karen, an enthusiasts of technology.
 
 <!--
 **karenmentges/karenmentges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
