@@ -1,5 +1,5 @@
 ### Hello, I'm Karen.
-An enthusiasts of technology.
+A technology enthusiasts.
 
 <!--
 **karenmentges/karenmentges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
